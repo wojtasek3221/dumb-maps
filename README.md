@@ -19,4 +19,4 @@ For now it is 300 seconds and it someone makes an new file request each file old
 Can I use this as a base for my project/host it?
 Yes, but please credit this repository or my github username. If you have further questions you can contact me directly at wojtasek3221@gmail.com
 
-official map service avalable at dumb-maps.ct.ws
+official map service avalable at https://www.dumb-maps.ct.ws
